@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[giq:home|Door43 (giq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-giq|d43-giq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-giq/archive/master.zip|d43-giq.zip]]
+
+**Recent Changes**
+{{changes>ns = giq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/giq|Ethnologue data]]
+
